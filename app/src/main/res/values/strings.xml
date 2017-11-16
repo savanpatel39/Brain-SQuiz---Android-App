@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Brain SQuiz</string>
+    <string name="NameTag">Enter your name :</string>
+    <string name="playerName">Enter your name</string>
+    <string name="image">Image</string>
+    <string name="beginButton">Begin</string>
+    <string name="QuestionTag">Q.</string>
+    <string name="QuestionText">Question</string>
+    <string name="option1">Option 1</string>
+    <string name="option2">Option 2</string>
+    <string name="option3">Option 3</string>
+    <string name="option4">Option 4</string>
+    <string name="ScoreTag">Score</string>
+    <string name="Score">0 / 5</string>
+</resources>
